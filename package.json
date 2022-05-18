@@ -1,0 +1,13 @@
+{
+  "name": "com.lucidmach.template.vr-sim",
+  "displayName": "VR-Sim",
+  "version": "1.0.0",
+  "type": "template",
+  "unity": "2020.1",
+  "description": "A template to create an VR project with XR Interaction plugin and XR Device Simulator.",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucidMach/Unity-VR-Sim-Template.git"
+  }
+}
