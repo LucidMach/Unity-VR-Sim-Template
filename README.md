@@ -13,7 +13,8 @@ A template to create an VR project with XR Interaction plugin and XR Device Simu
    > /Applications/Unity/Hub/Editor/<VERSION>/Unity.app/Contents/Resources/PackageManager/ProjectTemplates
    ### On a Windows
    > \Program Files\Unity\Hub\Editor\<VERSION>\Editor\Data\Resources\PackageManager\ProjectTemplates
-2. Download the `tgz` file [the ProjectData~ dir is the source code]
+2. Download the `tgz` file
+   [here](https://github.com/LucidMach/Unity-VR-Sim-Template/releases/download/latest/com.lucidmach.template.vr-sim-1.0.0.tgz)
 3. Copy `tgz` file to `Unity's template folder`
 4. Cold Restart Unity Hub
 5. You should see a template as follows
